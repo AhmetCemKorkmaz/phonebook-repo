@@ -1,0 +1,2 @@
+webserver_image: ahmetcemk/webserver13
+resultserver_image: ahmetcemk/resultserver13
